@@ -125,6 +125,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **React Native Maps** for map functionality
 - **Lucide Icons** for the beautiful icon set
 
-## Contact
-
-Project Link: [https://github.com/ArnabGupta525/avert-2.0](https://github.com/ArnabGupta525/avert-2.0 
+ 
